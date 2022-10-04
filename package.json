@@ -1,4 +1,11 @@
 {
+  "name": "@orgierr/vitest-ts-react-testing-library",
+  "version": "0.0.1",
+  "description": "vitest-ts-react-testing-library",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "index.js",
   "peerDependency": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
